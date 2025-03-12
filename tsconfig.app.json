@@ -12,10 +12,6 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "composite": true,
-    "lib": [
-      "ESNext",
-      "dom"
-    ]
   },
   "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"]
 }
