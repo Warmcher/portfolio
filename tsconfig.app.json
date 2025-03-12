@@ -9,6 +9,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
+    "noEmit": false,
     "emitDeclarationOnly": true,
     "composite": true,
     "lib": [
