@@ -6,7 +6,7 @@ export function openUrl(url: string): void {
   if (!url) {
     return;
   }
-  window.open(url, '_blank').focus();
+  window.open(url, '_blank')?.focus();
 }
 
 export function getRandomInt(max: number): number {
